@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "role": "Internship in React",
+    "organisation": "Centralogic",
+    "startDate": "May,2024",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": "Build Various Projects on web Development using React"
+       },
+  {
+    "id": 2,
+    "role": "Internship in Java ",
+    "organisation": "Profound",
+    "startDate": "Feb, 2024",
+    "endDate": "Apr, 2024",
+    "location": "Remote",
+    "experiences": "Learned about various concepts of Java"
+  },
+  {
+    "id": 3,
+    "role": "Internship in IoT",
+    "organisation": "Internshala",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2021",
+    "location": "Remote",
+    "experiences": 
+      "Worked on projects like temperature monitoring system Home automation using microcontrollers ESP8266"
+  }
+]
